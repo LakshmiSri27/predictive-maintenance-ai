@@ -1,0 +1,12 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+
+# Raw datasets
+data/*.txt
+
+# Generated files
+*.log
